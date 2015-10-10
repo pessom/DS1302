@@ -2,7 +2,7 @@
 Arduino DS1302  
 
 ## Скетч для работы с DS1302 на Arduino Uno и подобных платах  
-Подключаем DS1302  
+### Подключаем DS1302  
 RST к 11 пину arduino  
 DAT к 12 пину arduino  
 CLK к 13 пину arduino  
